@@ -22,6 +22,6 @@ export default function(store_object) {
       );
 
   }
-  store_boject.mutations = Object.assign(mutations, store_object.mutations);
+  store_object.mutations = Object.assign(mutations, store_object.mutations);
   return store_object;
 }

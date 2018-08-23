@@ -1,6 +1,6 @@
 {
   "name": "vuex-mutations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple vuex local storage",
   "author": "Eugen Guriev <gurievcreative@gmail.com>",
   "license": "MIT",
